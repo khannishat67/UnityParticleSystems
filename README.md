@@ -3,6 +3,12 @@
 Here you can find a collection of Particle Systems which you can use to build your games on Unity3D Game Engine
 
 Unity3D Version : 2018.1.0f2 Personal Edition.
+PC Configuration : 
+  Model : Asus ROG Strix GL553VD
+  Processor : Intel Core i5 7300HQ + Intel HM175 chipset
+  RAM : 8GB DDR4 2400MHz
+  Graphics Processors : Nvidia Geforce GTX 1050 4GB GDDR5, Intel HD Graphics 630 4GB
+  HDD : 1TB
 
 ## Particle Systems included : 
   1. Dust Particles.
