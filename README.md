@@ -14,6 +14,9 @@ Unity3D Version : 2018.1.0f2 Personal Edition.
   Graphics Processors : Nvidia Geforce GTX 1050 4GB GDDR5, Intel HD Graphics 630 4GB  
   
   HDD : 1TB
+## Assets sources
+  1. Google Images
+  2. Unity Asset Store
 
 ## Particle Systems included : 
   1. Dust Particles.
