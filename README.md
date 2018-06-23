@@ -11,7 +11,7 @@ Unity3D Version : 2018.1.0f2 Personal Edition.
 
   2. Snowfall Particles. 
   
-    ![Alt DustParticles](https://github.com/khannishat67/UnityParticleSystems/blob/master/Gifs/DustParticles.gif)
+    ![Alt Snowfall](https://github.com/khannishat67/UnityParticleSystems/blob/master/Gifs/ezgif.com-video-to-gif.gif)
     
 
 
