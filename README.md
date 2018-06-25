@@ -27,7 +27,10 @@ Unity3D Version : 2018.1.0f2 Personal Edition.
   
    ![Alt Snowfall](https://github.com/khannishat67/UnityParticleSystems/blob/master/Gifs/ezgif.com-video-to-gif.gif)
     
-
+  3. Simple Fire without smoke.
+  
+   ![Alt SimpleFire](https://github.com/khannishat67/UnityParticleSystems/blob/master/Gifs/firesimple.gif)
+   
 
 
 
