@@ -5,3 +5,6 @@
 \ .vscode/
 Temp/
 .vscode/
+*.info
+\ metadata/
+metadata/
