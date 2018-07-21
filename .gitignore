@@ -1,2 +1,7 @@
 *.meta
 \ Temp/
+*.apk
+*.sln
+\ .vscode/
+Temp/
+.vscode/
